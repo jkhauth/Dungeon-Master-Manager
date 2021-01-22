@@ -89,7 +89,7 @@ No test required.
 
 
 ## Contact
-[Merlin Rock](mailto:rock.merlin@yahoo.com?subject=[GitHub]%20Source:%20Dungeon%20Master%20Manager)
+[John Hauth](mailto:jkhauth@gmail.com?subject=[GitHub]%20Source:%20Dungeon%20Master%20Manager)
     
 
 
